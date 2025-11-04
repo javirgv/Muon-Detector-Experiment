@@ -1,0 +1,3 @@
+[submodule "Teensy-Pulse-Generator"]
+	path = Teensy-Pulse-Generator
+	url = https://github.com/UCD-Physics/Teensy-Pulse-Generator.git
