@@ -11,7 +11,7 @@ This project focused on detecting cosmic-ray muons at sea level using a plastic 
 - Implemented Python workflows to convert raw detector signals into time intervals, apply Poisson-based error analysis, and extract the muon lifetime through exponential fitting.  
 - Analysed temporal trends in muon counts to identify and mitigate background signals and lab-related interferences.  
 - Visualised data using histograms, time-series plots, and comparative analyses across different periods.
-- Structured the analysis in clear, modular Jupyter notebook suitable for reuse and inspection.  
+- Structured the analysis in a clear, modular Jupyter notebook suitable for reuse and inspection.  
 - Documented the full experimental procedure, analysis, and interpretation in a structured PDF report.
 
 ## Technical focus
