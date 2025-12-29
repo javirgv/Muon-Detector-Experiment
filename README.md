@@ -17,6 +17,7 @@ This project focused on detecting cosmic-ray muons at sea level using a plastic 
 ## Technical focus
 - **Programming & Analysis:** Python, NumPy, SciPy, serial, json
 - **Visualisation:** Matplotlib (time-series plots, histograms, bar charts, comparative analyses)
+- **Data Acquisition**: Software-based acquisition pipeline using modular NIM electronics, with channel-to-time calibration and structured data logging
 - **Scientific methods:** Channel-to-time calibration, Poisson error analysis, exponential decay fitting, chi-squared testing, error propagation
 - **Experimental Skills:** Photomultiplier calibration, discriminator threshold selection, TAC usage, Teensy microcontroller integration
 - **Workflow:** reproducible analysis using Jupyter notebook and version control with Git 
